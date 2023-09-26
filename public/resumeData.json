@@ -47,63 +47,72 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here, you can see the level of proficiency and experience I possess in the following technologies.",
     "education":[
       {
         "school":"Universidad Nacional Autonoma de Honduras",
         "degree":"Systems Engineering",
+        "honor": "Cum Laude",
         "graduated":"Sep 2021",
         "description":"During my studies, my focus was on web development, where I learned to use languages for frontend development such as JavaScript, CSS, and HTML, for both desktop and mobile applications, employing responsive design principles. I also utilized various frontend frameworks such as Angular and React, and for styling, I employed Bootstrap, Materialize, and Ant Design. In addition, I acquired proficiency in using the Node.js environment for backend development."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Hello Iconic",
+        "title":"Middle Front End Developer",
+        "years":"Feb 2023 -  May 2023",
+        "description":"Developed and maintained data-rich JavaScript/HTML/CSS applications designed for smooth user navigation, ensuring exceptional user experience. This involved integrating front-end and back-end services while collaborating closely with software engineers, product owners and designers to ensure optimal customer satisfaction within an agile and dynamic workflow. The project I was assigned to during this position is a product that offers pre-built, pre-tested fintech designs, components, integrations, and features. During this experience I used the reactJS framework along with redux for complex states, in addition to the use of tokens for customization directly from the designs in figma, handling all this work in versioning in the git and github tool."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Hello Iconic",
+        "title":"Middle Quality Assurance Engineer",
+        "years":"Jul 2022 - Feb 2023",
+        "description":"I developed automated test scripts to streamline repetitive software testing tasks, providing guidance to developers on performance and database issues. I effectively communicated technical information using clear terminology, conducted research on emerging testing methodologies and equipment, and offered recommendations to enhance testing procedures. Additionally, I conducted training sessions for quality assurance team members on automation programs and processes, and executed automated test suites to evaluate performance, functionality, and scalability. My collaboration with developers and project managers involved assessing program capabilities, features, and testing requirements to ensure comprehensive quality control. During this experience, I utilized webdriverIO, Cypress, and Appium frameworks as per project needs, and also crafted tests and set up backend monitoring using the Postman tool."
+      },
+      {
+        "company":"Hello Iconic",
+        "title":"Junior Quality Assurance Engineer",
+        "years":"Jul 2022 - Feb 2023",
+        "description":"I meticulously documented integration, functionality, and UI issues within the TestRails tool using Gherkin syntax, simultaneously providing clear improvement recommendations. I conducted software error assessments, compiling detailed bug reports that included information such as the error's environment, reproducibility steps, its impact on functionality, and priority level. Collaboration was pivotal as I closely collaborated with various departments to devise innovative solutions to functionality problems. Furthermore, I partnered with the leadership team to devise an automation strategy and execution plan. My efforts extended to optimizing test cases to ensure the highest success rates in manual software testing. To enhance my software knowledge, I actively participated in available training sessions. Additionally, I crafted effective test scripts for managing automated feature testing using webdriverIO exclusively, consistently meeting tight deadlines to meet client demands and adhere to project timelines."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"85%"
       },
       {
-        "name":"CSS",
+        "name":"AngularJS",
+        "level":"75%"
+      },
+      {
+        "name":"Javascript",
+        "level":"98%"
+      },
+      {
+        "name":"TypeScript",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"HTML",
+        "level":"97%"
+      },
+      {
+        "name":"WebdriverIO",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Cypress",
+        "level":"70%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Appium",
+        "level":"70%"
       }
     ]
   },
