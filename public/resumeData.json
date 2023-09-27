@@ -73,8 +73,14 @@
       {
         "company":"Hello Iconic",
         "title":"Junior Quality Assurance Engineer",
-        "years":"Jul 2022 - Feb 2023",
+        "years":"Dic 2020 - Jul 2022",
         "description":"I meticulously documented integration, functionality, and UI issues within the TestRails tool using Gherkin syntax, simultaneously providing clear improvement recommendations. I conducted software error assessments, compiling detailed bug reports that included information such as the error's environment, reproducibility steps, its impact on functionality, and priority level. Collaboration was pivotal as I closely collaborated with various departments to devise innovative solutions to functionality problems. Furthermore, I partnered with the leadership team to devise an automation strategy and execution plan. My efforts extended to optimizing test cases to ensure the highest success rates in manual software testing. To enhance my software knowledge, I actively participated in available training sessions. Additionally, I crafted effective test scripts for managing automated feature testing using webdriverIO exclusively, consistently meeting tight deadlines to meet client demands and adhere to project timelines."
+      },
+      {
+        "company":"Premper Design",
+        "title":"Front-End Web Developer",
+        "years":"Sep 2020 - Nov 2020",
+        "description":"I actively collaborated with stakeholders throughout the development process, ensuring alignment with creative proposals and adherence to design best practices. My responsibilities included gathering and addressing technical and design requirements, seamlessly integrating user interface elements to enhance the effectiveness of our dynamic e-commerce web presence. I also took charge of creating reusable content modules and developing prototypes to improve efficiency. Furthermore, I was committed to identifying and resolving website performance issues to enhance overall functionality. My coding skills in HTML, CSS, and JavaScript were instrumental in developing responsive web page features that contributed to the project's success. During this experience, I utilized the Angular framework in conjunction with the Bulma CSS framework."
       }
     ],
     "skills":[
