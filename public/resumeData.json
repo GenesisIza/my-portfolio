@@ -8,40 +8,40 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "genesisizaguirre17@gmail.com",
     "phone": "(504) 9928-6923",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/GenesisIza",
+    "project":"https://github.com/GenesisIza",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://www.linkedin.com/in/genesis-izaguirre-073684121/",
+    "resumedownload":"https://www.linkedin.com/in/genesis-izaguirre-073684121/",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/GenesisIza",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/Gene_Izaguirre",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/genesis-izaguirre-073684121/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/geneizg/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/GenesisIza",
         "className":"fa fa-github"
       }
     ]
