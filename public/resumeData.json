@@ -4,8 +4,8 @@
     "name":"Genesis Izaguirre",
     "description":"My name is Genesis Izaguirre, I'm a front-end developer and QA engineer based in Tegucigalpa, Honduras. I have developed many types of front-ends from well know Ecommerce platforms to fintech frameworks. I have also contributed to automatic and manual testing for platforms dedicated to cybersecurity",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"As a Quality Assurance Engineer, I possess a comprehensive skill set that encompasses both Automation and Manual Testing. My career is founded on the principle of ensuring software excellence through the implementation of rigorous testing methodologies. My unwavering dedication to maintaining quality standards throughout the software development lifecycle motivates me to excel in identifying vulnerabilities early in the process, thereby mitigating risks and enhancing user experiences.",
+    "contactmessage":"Please feel free to reach out to me or to schedule a conversation at your earliest convenience. I am confident that together, we can elevate the quality of your software products and drive success in your endeavors",
     "email": "genesisizaguirre17@gmail.com",
     "phone": "(504) 9928-6923",
     "github":"https://github.com/GenesisIza",
@@ -85,35 +85,35 @@
     ],
     "skills":[
       {
-        "name":"ReactJs",
-        "level":"85%"
-      },
-      {
-        "name":"AngularJS",
-        "level":"75%"
-      },
-      {
         "name":"Javascript",
         "level":"98%"
-      },
-      {
-        "name":"TypeScript",
-        "level":"90%"
-      },
-      {
-        "name":"CSS",
-        "level":"95%"
       },
       {
         "name":"HTML",
         "level":"97%"
       },
       {
-        "name":"WebdriverIO",
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"85%"
+      },
+      {
+        "name":"TypeScript",
         "level":"80%"
       },
       {
+        "name":"Manual Testing",
+        "level":"95%"
+      },
+      {
         "name":"Cypress",
+        "level":"90%"
+      },
+      {
+        "name":"WebdriverIO",
         "level":"70%"
       },
       {
